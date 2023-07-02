@@ -236,10 +236,10 @@
     margin-left: 4%;    
      color: #ffffff;
      font-size: 40px;
+     letter-spacing: 4px;
      font-family: 'NeonSans', sans-serif;
      line-height: 10px;
      font-weight: 300;
-     letter-spacing: 18px;
      text-transform: uppercase;
      text-align: center;
    }
