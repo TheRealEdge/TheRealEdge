@@ -1,4 +1,4 @@
-/* Generated on: Thu Nov 12 2020 23:58:06 GMT+0000 (Coordinated Universal Time) */
+ /* Generated on: Thu Nov 12 2020 23:58:06 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -353,7 +353,7 @@
 
    .footer {
      padding-top: 0%;
-     padding-bottom: 80%;
+     padding-bottom: 1vw;
    }
    
    .footer.center {
@@ -369,6 +369,7 @@
     height: 10vw;
     width: 15vw;
     margin-right: 2vw;
+    margin-top: 4vw;
    }
 
    
@@ -377,6 +378,8 @@
     height: 10vw;
     width: 23vw;
     margin-right: 2vw;
+    margin-top: 4vw;
+    align-content: center;
    }
    
    .footer-text {
@@ -430,6 +433,12 @@
      text-align: center;
    }
    
+.spc-w-col-w-col-4 {
+  margin-bottom: 1vw;
+  margin-left: 2vw;
+  margin-top: 3vw;
+}  
+
    .fullwidth-image {
      width: 100%;
      margin-bottom: 20px;
