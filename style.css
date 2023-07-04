@@ -369,7 +369,7 @@
     height: 10vw;
     width: 15vw;
     margin-right: 2vw;
-    margin-top: 4vw;
+    margin-top: 1.5vw;
    }
 
    
@@ -377,9 +377,8 @@
     float: right;
     height: 10vw;
     width: 23vw;
-    margin-right: 2vw;
-    margin-top: 4vw;
-    align-content: center;
+    margin-right: 1vw;
+    margin-top: 1.5vw;
    }
    
    .footer-text {
